@@ -1,0 +1,150 @@
+*{
+    background-color: #b9e1fc;
+    margin: 0px;
+}
+.sky{
+    background-color: #bee6fc;
+    height: 100px;
+}
+.covering{
+    background-color: #b9e1fc;
+}
+.bubble{
+    background-color: #cae9f3;
+    border-radius: 50%;
+}
+.darker{
+    background-color: #999999;
+}
+.main{
+    margin: 100px auto;
+}
+.body{
+    background-color: #aaaaaa;
+}
+.torso{
+    height: 300px;
+    width: 500px;
+    border-radius: 0 0 50% 50%;
+    position: relative;
+    margin: auto;
+}
+.cfirst{
+    height: 150px;
+    width: 500px;
+}
+.tail{
+    height: 110px;
+    width: 150px;
+    position: absolute;
+    top: 90px;
+    left: -135px;
+    border-radius: 50% 50% 50% 0%;
+}
+.csecond{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    /*left: -40px;*/
+    border-radius: 0% 100% 90% 0%;   
+}
+.fin1{
+    height: 155px;
+    width: 100px;
+    border-radius: 130px 1400px 0 0;
+    position: absolute;
+    top: -30px;
+    left: 320px;
+}
+.fin2{
+    height: 100px;
+    width: 100px;
+    border-radius: 0 0 1400px 130px;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}
+.gills1{
+    height: 75px;
+    width: 20px;
+    border-radius: 50% 0 0 50%;
+    position: absolute;
+    top: 110px;
+    left: 100px;
+}
+.cthird{
+    height: inherit;
+    width: inherit;
+    border-radius: 30% 0 0 30%;
+    position: absolute;
+    left: 5px;
+}
+.gills2{
+    height: 90px;
+    width: 25px;
+    border-radius: 50% 0 0 50%;
+    position: absolute;
+    top: -7.5px;
+    left: 7.5px;
+}
+.cfourth{
+    height: inherit;
+    width: inherit;
+    border-radius: 30% 0 0 30%;
+    position: absolute;
+    left: 7px;
+}
+.gills3{
+    height: 105px;
+    width: 30px;
+    border-radius: 50% 0 0 50%;
+    position: absolute;
+    top: -7.5px;
+    left: 8px;
+}
+.cfive{
+    height: inherit;
+    width: inherit;
+    border-radius: 30% 0 0 30%;
+    position: absolute;
+    left: 10px;
+}
+.eye{
+    height:25px;
+    width:25px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    left:100px;
+}
+.pupil{
+    height:5px;
+    width:5px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.bfirst{
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 25px;
+    left: 225px;
+}
+.bsecond{
+    height: 7.5px;
+    width: 7.5px;
+    position: absolute;
+    top: 20px;
+    left: -5px;
+}
+.bthird{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    top: 5px;
+    left: 7.5px;
+}
