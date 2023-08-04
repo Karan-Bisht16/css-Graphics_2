@@ -10,7 +10,7 @@
     background-color: #b9e1fc;
 }
 .bubble{
-    background-color: #cae9f3;
+    background-color: #ffffff;
     border-radius: 50%;
 }
 .darker{
@@ -38,7 +38,7 @@
     width: 150px;
     position: absolute;
     top: 90px;
-    left: -135px;
+    left: -130px;
     border-radius: 50% 50% 50% 0%;
 }
 .csecond{
@@ -55,7 +55,7 @@
     border-radius: 130px 1400px 0 0;
     position: absolute;
     top: -30px;
-    left: 320px;
+    left: 310px;
 }
 .fin2{
     height: 100px;
@@ -147,4 +147,22 @@
     position: absolute;
     top: 5px;
     left: 7.5px;
+}
+.mouth{
+    height: 0px;
+    width: 0px;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 75px solid #b9e1fc;
+    position: absolute;
+    top: 35px;
+    left:-20px;
+    transform: rotate(-50deg);
+}
+.csix{
+    height: 100px;
+    width: 100px;
+    transform: rotate(-25deg);
+    position: absolute;
+    top:83px;
 }
